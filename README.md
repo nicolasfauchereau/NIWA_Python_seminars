@@ -1,7 +1,7 @@
 NIWA_Python_seminars
 ====================
 
-A series of IPython notebooks on Python for data analysis geared towards environmental sciences
+A series of IPython notebooks on **Python for data analysis** geared towards environmental sciences.
 
 <hr size=3>
 
@@ -20,7 +20,7 @@ Dates and times:
 
 <hr size=3>
 
-Nicolas Fauchereau (Nicolas.Fauchereau@gmail.com) [My academia web-page](http://niwa.academia.edu/NicolasFauchereau)
+Contact: Nicolas Fauchereau (Nicolas.Fauchereau@gmail.com): [My academia web-page](http://niwa.academia.edu/NicolasFauchereau)
 
 All the notebooks in this seminar series are indexed at [https://github.com/nicolasfauchereau/NIWA_Python_seminars](https://github.com/nicolasfauchereau/NIWA_Python_seminars)
 
@@ -28,4 +28,4 @@ If you have git installed, the easier is to clone my repository
 
     git clone https://github.com/nicolasfauchereau/NIWA_Python_seminars.git
 
-If you are not a git user, simply download the tarball from [here](https://github.com/nicolasfauchereau/NIWA_Python_seminars/archive/master.zip) or copy the directory `NIWA_Python_seminars` from my S: drive.
+If you are not a git user, simply download the archive from [here](https://github.com/nicolasfauchereau/NIWA_Python_seminars/archive/master.zip) or copy the directory `NIWA_Python_seminars` from my S: drive.
