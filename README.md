@@ -14,7 +14,7 @@ Dates and times:
 + Tuesday 28 January, 12:00 - 13:00
 + Thursday 30 January, 12:00 - 13:00
 + Monday 3 February, 14:00 - 15:00
-+ Tuesday 4 February, 12:00 - 13:00
++ Tuesday 4 February, 14:00 - 15:00
 + Wednesday 5 February, 12:00 - 13:00
 
 
