@@ -16,6 +16,7 @@ Dates and times:
 + Monday 3 February, 14:00 - 15:00
 + Tuesday 4 February, 14:00 - 15:00
 + Wednesday 5 February, 12:00 - 13:00
++ Wednesday 9 April, 12:00 - 13:00
 
 
 <hr size=3>
