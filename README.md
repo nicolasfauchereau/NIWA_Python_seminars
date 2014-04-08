@@ -1,5 +1,5 @@
-NIWA_Python_seminars
-====================
+Python for Data Analysis
+========================
 
 A series of IPython notebooks on **Python for data analysis** geared towards environmental sciences.
 
@@ -11,12 +11,12 @@ Auckland, New Zealand
 
 Dates and times: 
 
-+ Tuesday 28 January, 12:00 - 13:00
-+ Thursday 30 January, 12:00 - 13:00
-+ Monday 3 February, 14:00 - 15:00
-+ Tuesday 4 February, 14:00 - 15:00
-+ Wednesday 5 February, 12:00 - 13:00
-+ Wednesday 9 April, 12:00 - 13:00
++ Tuesday 28 January 2014, 12:00 - 13:00
++ Thursday 30 January 2014, 12:00 - 13:00
++ Monday 3 February 2014, 14:00 - 15:00
++ Tuesday 4 February 2014, 14:00 - 15:00
++ Wednesday 5 February 2014, 12:00 - 13:00
++ Wednesday 9 April 2014, 12:00 - 13:00
 
 
 <hr size=3>
