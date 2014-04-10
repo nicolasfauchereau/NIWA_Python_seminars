@@ -17,6 +17,7 @@ Dates and times:
 + Tuesday 4 February 2014, 14:00 - 15:00
 + Wednesday 5 February 2014, 12:00 - 13:00
 + Wednesday 9 April 2014, 12:00 - 13:00
++ Friday 11 April 2014, 12:00 - 13:00
 
 
 <hr size=3>
