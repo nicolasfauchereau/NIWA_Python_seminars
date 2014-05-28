@@ -31,3 +31,13 @@ If you have git installed, the easier is to clone my repository
     git clone https://github.com/nicolasfauchereau/NIWA_Python_seminars.git
 
 If you are not a git user, simply download the archive from [here](https://github.com/nicolasfauchereau/NIWA_Python_seminars/archive/master.zip) or copy the directory `NIWA_Python_seminars` from my S: drive.
+
+You can also visualize the material in your web-browser (thanks to [nbviewer](http://nbviewer.ipython.org/)) by following these links: 
+
++ [0: Introduction](http://nbviewer.ipython.org/github/nicolasfauchereau/NIWA_Python_seminars/blob/master/0_Introduction.ipynb)
++ [1: _Overview of IPython](http://nbviewer.ipython.org/github/nicolasfauchereau/NIWA_Python_seminars/blob/master/1_Overview_IPython.ipynb)
++ [2: Introduction to Python](http://nbviewer.ipython.org/github/nicolasfauchereau/NIWA_Python_seminars/blob/master/2_Introduction_to_Python.ipynb)
++ [3: Numpy and Scipy](http://nbviewer.ipython.org/github/nicolasfauchereau/NIWA_Python_seminars/blob/master/3_Numpy_and_Scipy.ipynb)
++ [4: Statistical modeling](http://nbviewer.ipython.org/github/nicolasfauchereau/NIWA_Python_seminars/blob/master/4_Statistical_modelling.ipynb)
++ [5: Introduction to Pandas](http://nbviewer.ipython.org/github/nicolasfauchereau/NIWA_Python_seminars/blob/master/5_Introduction_to_Pandas.ipynb)
++ [6: Machine Learning](http://nbviewer.ipython.org/github/nicolasfauchereau/NIWA_Python_seminars/blob/master/6_Machine_Learning.ipynb)
