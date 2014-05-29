@@ -43,3 +43,7 @@ You can also visualize the material in your web-browser (thanks to [nbviewer](ht
 + [4: Statistical modeling](http://nbviewer.ipython.org/github/nicolasfauchereau/NIWA_Python_seminars/blob/master/4_Statistical_modelling.ipynb)
 + [5: Introduction to Pandas](http://nbviewer.ipython.org/github/nicolasfauchereau/NIWA_Python_seminars/blob/master/5_Introduction_to_Pandas.ipynb)
 + [6: Machine Learning](http://nbviewer.ipython.org/github/nicolasfauchereau/NIWA_Python_seminars/blob/master/6_Machine_Learning.ipynb)
+
+An alternative way to display the notebooks is to use the github HTML viewer: e.g. in your address bar prepend  ```http://htmlpreview.github.io/?``` to URL of the HTML versions of the notebooks available in the repository, for example for the Introduction:   
+
+[http://htmlpreview.github.io/?https://github.com/nicolasfauchereau/NIWA_Python_seminars/blob/master/0_Introduction.html](http://htmlpreview.github.io/?https://github.com/nicolasfauchereau/NIWA_Python_seminars/blob/master/0_Introduction.html)
